@@ -1,3 +1,5 @@
 # Todo_app
-This is simple ToDoApp via Django Framework.
+This is simple ToDoApp via Django.
+
+
 
